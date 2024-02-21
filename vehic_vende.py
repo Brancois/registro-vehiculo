@@ -16,7 +16,7 @@ class Vehicle():  # clase padre
         self.type = type
 
 
-class Seller():
+class Seller():   #Clase del seller
     def __init__(self, dealership_name):
         self.dealership_name = dealership_name
 
